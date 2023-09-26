@@ -43,7 +43,7 @@ Square of 3.14 is 9.8596
 
   let a_ones_complement:i32 = !a+1;
   println!("Ones complement of {} is {}", a, a_ones_complement);
-/*Output */
+/*Output 
   Complement of 3 is -4
 Ones complement of 3 is -3 */
 }
