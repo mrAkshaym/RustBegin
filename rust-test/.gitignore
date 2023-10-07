@@ -1,5 +1,6 @@
 /target
 .cargo-ok
+.Cargo.lock
 .DS_Store
 */main.exe
 */main.pdb
